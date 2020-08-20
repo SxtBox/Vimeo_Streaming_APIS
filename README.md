@@ -9,3 +9,4 @@ Get HLS/MP4 From Vimeo From FREE/PRO Users
     Kodi Strucrure
     M3U Structure Smart TV/VLC or KODI
     
+# THIS CODE IS NOT FREE
