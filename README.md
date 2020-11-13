@@ -14,5 +14,5 @@ Get HLS/MP4 From Vimeo From FREE/PRO Users
     [Default] https://paidcodes.albdroid.al/Vimeo_Apis/Player_PRO
     [Videojs] https://paidcodes.albdroid.al/Vimeo_Apis/Player_PRO/play_videojs.php?id= + Video ID
 
-# THIS CODE IS NOT FREE
+# Note
     if you are interested to buying contact us by email
