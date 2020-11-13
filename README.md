@@ -8,6 +8,8 @@ Get HLS/MP4 From Vimeo From FREE/PRO Users
     JSON API
     Kodi Strucrure
     M3U Structure Smart TV/VLC or KODI
+    Codeigniter Module M3U/MP4/EMBED
+    Example CI Player => http://albdroid.al/live-tv/category/vimeo-player.html
 
 # Web Players
     as default is active clappr player
