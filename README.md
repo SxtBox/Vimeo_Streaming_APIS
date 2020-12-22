@@ -13,8 +13,8 @@ Get HLS/MP4 From Vimeo From FREE/PRO Users
 
 # Web Players
     as default is active clappr player
-    [Default] https://paidcodes.albdroid.al/Vimeo_Apis/Player_PRO
-    [Videojs] https://paidcodes.albdroid.al/Vimeo_Apis/Player_PRO/play_videojs.php?id= + Video ID
+    [Default] https://paidcodes.albdroid.al/Vimeo_APIS/Player_PRO
+    [Videojs] https://paidcodes.albdroid.al/Vimeo_APIS/Player_PRO/play_videojs.php?id= + Video ID
 
 # Note
     if you are interested to buying contact us by email
