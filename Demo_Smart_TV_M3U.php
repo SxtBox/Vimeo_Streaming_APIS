@@ -12,6 +12,6 @@ date_default_timezone_set("Europe/Tirane");
 header('Access-Control-Allow-Origin: *');
 header('Content-type: application/json');
 
-$GET_URL = file_get_contents('https://paidcodes.albdroid.al/Vimeo_Apis/Smart_TV_M3U.php'.$_SERVER['QUERY_STRING']);
+$GET_URL = file_get_contents('https://paidcodes.albdroid.al/Vimeo_APIS/Smart_TV_M3U.php'.$_SERVER['QUERY_STRING']);
 echo $GET_URL;
 ?>
